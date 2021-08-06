@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorEventApp", "CalculatorEventApp\CalculatorEventApp.csproj", "{04B618A9-EFCC-42F7-86A5-CB196970EB36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B618A9-EFCC-42F7-86A5-CB196970EB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B618A9-EFCC-42F7-86A5-CB196970EB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B618A9-EFCC-42F7-86A5-CB196970EB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B618A9-EFCC-42F7-86A5-CB196970EB36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E0780D-E1B5-46B4-8AD4-C7F2DD763974}
+	EndGlobalSection
+EndGlobal
